@@ -1,0 +1,102 @@
+container:
+  image: openjdk:8-jdk
+  cpu: 4
+  memory: 12G
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
+task:
+  script: chmod +x run.sh && ./run.sh
